@@ -29,4 +29,4 @@
 <p><img align="right" height="200px" width="200px" src="https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b9520xrtc3u0zk574kj6fokty3nmbx7xhaj966m9hskt&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="React"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu2608&show_icons=true&locale=en" alt="priyanshu2608" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu2608" alt="priyanshu2608"  /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu2608&" alt="priyanshu2608"/></p>
