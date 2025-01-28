@@ -1,32 +1,57 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Vasudev</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5500&lines=Hi+There!+👋;+I'm+Priyanshu+Vasudev!;" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu2608&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu2608" /> </p>
+# 💫 About Me:
+Hi, I'm Priyanshu Vasudev! 👋<br>I'm a passionate Web Developer with a love for crafting responsive, user-friendly websites. Currently diving into React and Tailwind CSS, I enjoy building sleek and functional user interfaces. My expertise includes HTML, CSS, JavaScript, and I'm expanding my skill set with Node.js, Express.js, and Next.js.<br><br>🔭 *Currently working on:* Notes-App using the *MERN Stack* (MongoDB, Express, React, Node.js)<br>🌱 *Learning:* Exploring *Express.js, **Next.js, and diving deeper into databases.<br>💻 **All of my projects are available at:* [My Portfolio](https://priyanshuvasudev-portfolio.vercel.app)<br>💬 *Ask me about:* React, CSS, Tailwind CSS, HTML, JavaScript<br>📫 *How to reach me:* priyanshuvasudev2005@gmail.com<br>🧑🏻‍💻 My Linkedin: https://www.linkedin.com/in/priyanshu-vasudev-off/ <br>⚡ *Fun Fact:* I’m also a *footballer*! ⚽<br>Feel free to reach out to me for any collaborations or just a tech chat! 😄
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu2608" alt="priyanshu2608" /></a> </p>
 
-- 🔭 I’m currently working on [Notes-App Using MERN Stack]
+# 💻 Tech Stack:
+<div align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%232F72FF.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
-- 🌱 I’m currently learning **express.js,Next.js,Stuff about Databases**
+# 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu2608&theme=aura&hide_border=false&include_all_commits=false&count_private=false" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu2608&theme=aura&hide_border=false" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu2608&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
 
-- 👨‍💻 All of my projects are available at [https://priyanshuvasudev-portfolio.vercel.app/](https://priyanshuvasudev-portfolio.vercel.app/)
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Priyanshu2608&theme=aura&no-frame=true&no-bg=false&margin-w=4" />
+</div>
 
-- 💬 Ask me about **React,CSS, Tailwind CSS,HTML, Javascript**
+### ✍ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" />
+</div>
 
-- 📫 How to reach me **priyanshuvasudev2005@gmail.com**
+### 🔝 Top Contributed Repo
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Priyanshu2608&limit=5&theme=aura&combine_all_yearly_contributions=true" />
+</div>
 
-- ⚡ Fun fact **I am a footballer too.**
+---
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Priyanshu2608&icon=0&color=0" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/priyanshu_v2608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyanshu_v2608" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/priyanshu vasudev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu vasudev" height="30" width="40" /></a>
-<a href="https://instagram.com/priyanshu.vasudev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanshu.vasudev" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<p><img align="right" height="200px" width="200px" src="https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b9520xrtc3u0zk574kj6fokty3nmbx7xhaj966m9hskt&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="React"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu2608&show_icons=true&locale=en" alt="priyanshu2608" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu2608&" alt="priyanshu2608"/></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
